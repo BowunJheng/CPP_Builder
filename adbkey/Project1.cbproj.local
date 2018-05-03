@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/07/18 11:29:49.000.420,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/07/18 11:58:40.000.996,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/07/18 13:59:36.000.877,C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\bwcheng\桌面\adbkey\Unit1.cpp</Transaction>
+    <Transaction>2012/07/18 13:59:36.000.877,C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\bwcheng\桌面\adbkey\Unit1.h</Transaction>
+    <Transaction>2012/07/18 13:59:36.000.877,C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\bwcheng\桌面\adbkey\Unit1.dfm</Transaction>
+    <Transaction>2012/07/18 13:59:39.000.361,C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\bwcheng\桌面\adbkey\Project1.cbproj</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
