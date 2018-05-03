@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009/07/23 16:21:23.787.cbproj,C:\Documents and Settings\askey\My Documents\RAD Studio\Projects\click.cbproj=C:\Documents and Settings\askey\My Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2009/07/23 16:29:44.245.cpp,C:\Documents and Settings\askey\桌面\click\Unit1.cpp=C:\Documents and Settings\askey\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2009/07/23 16:29:44.245.h,C:\Documents and Settings\askey\桌面\click\Unit1.h=C:\Documents and Settings\askey\My Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2009/07/23 16:29:44.245.dfm,C:\Documents and Settings\askey\桌面\click\Unit1.dfm=C:\Documents and Settings\askey\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2009/07/23 16:29:45.386.cbproj,C:\Documents and Settings\askey\桌面\click\click.cbproj=C:\Documents and Settings\askey\My Documents\RAD Studio\Projects\click.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
