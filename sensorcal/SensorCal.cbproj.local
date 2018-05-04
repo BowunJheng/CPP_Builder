@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/07/26 17:18:30.000.568,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/07/26 17:18:30.000.443,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013/07/26 17:19:33.000.299,C:\Documents and Settings\bwcheng\桌面\sensorcal\cal.h=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2013/07/26 17:19:33.000.299,C:\Documents and Settings\bwcheng\桌面\sensorcal\cal.dfm=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/07/26 17:19:33.000.299,C:\Documents and Settings\bwcheng\桌面\sensorcal\cal.cpp=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/07/26 17:19:36.000.268,C:\Documents and Settings\bwcheng\桌面\sensorcal\Project1PCH1.h=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013/07/26 17:19:37.000.955,C:\Documents and Settings\bwcheng\桌面\sensorcal\Project1.cbproj=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2013/08/03 01:09:01.000.262,C:\Documents and Settings\bwcheng\桌面\sensorcal\Project1PCH1.h=C:\Documents and Settings\bwcheng\桌面\sensorcal\SensorCalPCH1.h</Transaction>
+    <Transaction>2013/08/03 01:09:01.000.324,C:\Documents and Settings\bwcheng\桌面\sensorcal\Project1.cbproj=C:\Documents and Settings\bwcheng\桌面\sensorcal\SensorCal.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
