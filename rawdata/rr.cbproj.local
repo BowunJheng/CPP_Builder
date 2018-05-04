@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/14 16:47:11.000.484,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013/01/14 16:47:11.000.484,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/06/27 12:45:41.000.802,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/06/27 12:45:41.000.802,=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013/06/27 12:46:02.000.812,C:\Documents and Settings\bwcheng\桌面\rawdata\rrmain.dfm=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/06/27 12:46:02.000.812,C:\Documents and Settings\bwcheng\桌面\rawdata\rrmain.h=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2013/06/27 12:46:02.000.812,C:\Documents and Settings\bwcheng\桌面\rawdata\rrmain.cpp=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/06/27 12:46:04.000.811,C:\Documents and Settings\bwcheng\桌面\rawdata\Project1PCH1.h=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013/06/27 12:46:08.000.888,C:\Documents and Settings\bwcheng\桌面\rawdata\rrPCH1.h=C:\Documents and Settings\bwcheng\桌面\rawdata\Project1PCH1.h</Transaction>
+    <Transaction>2013/06/27 12:46:08.000.919,C:\Documents and Settings\bwcheng\桌面\rawdata\rr.cbproj=C:\Documents and Settings\bwcheng\My Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2013/06/28 00:40:12.000.483,=C:\Documents and Settings\bwcheng\桌面\rawdata\Unit2.cpp</Transaction>
+    <Transaction>2013/06/28 01:05:22.000.660,C:\Documents and Settings\bwcheng\桌面\rawdata\tee.h=C:\Documents and Settings\bwcheng\桌面\rawdata\Unit2.h</Transaction>
+    <Transaction>2013/06/28 01:05:22.000.660,C:\Documents and Settings\bwcheng\桌面\rawdata\tee.dfm=C:\Documents and Settings\bwcheng\桌面\rawdata\Unit2.dfm</Transaction>
+    <Transaction>2013/06/28 01:05:22.000.660,C:\Documents and Settings\bwcheng\桌面\rawdata\tee.cpp=C:\Documents and Settings\bwcheng\桌面\rawdata\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
